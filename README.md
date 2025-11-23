@@ -1,13 +1,5 @@
 # 📊 **Amazon Sales Analytics Dashboard — Power BI + SQL + Python Project**
 
-## 📘 *MBA IT — Data Analytics Project*
-
-### 👨‍🎓 **Student**
-
-- **Shlok Tilokani** (ID: 24030141072)
-
----
-
 ![Amazon Sales Analytics Dashboard](res/video.gif)
 
 ---
