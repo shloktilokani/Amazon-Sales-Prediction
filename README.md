@@ -8,6 +8,10 @@
 
 ---
 
+![Amazon Sales Analytics Dashboard](res/video.gif)
+
+---
+
 ## 🔍 **Project Overview**
 
 This project is a complete **end‑to‑end Business Intelligence solution** built using:
