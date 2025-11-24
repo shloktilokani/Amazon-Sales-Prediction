@@ -264,6 +264,32 @@ This project demonstrates a fully integrated BI + ML system:
 
 ---
 
+## 👥 Contributors
+
+We are a team of five members who collaborated on this data analysis project. Connect with us:
+
+- **Shlok Tilokani**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shloktilokani)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shloktilokani/)
+
+- **Avash Sahu**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avashsahu)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avashsahu/)
+
+- **Shubhangi Pattnaik**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhangi017)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-pattnaik-0417/)
+
+- **Shweta Janakwade**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/108Shweta)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-janakwade-a3698b236/)
+
+- **Shweta Dishwar**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShwetaDishwar)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sdishwar10/)
+
+---
+
 ## ⭐ **Thank You!**
 
 If this dashboard inspired you, feel free to ⭐ star the repository!
